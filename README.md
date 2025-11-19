@@ -1,2 +1,2 @@
-# Day-1-Aura
+# Aura Project
 The first step to our Aura hourney
